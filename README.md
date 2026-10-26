@@ -10,3 +10,6 @@ Sangat seru dan memberi insight
 
 ## Kesan Pesan Cluster 19 Sejauh Ini 
 orang orangnya baik
+
+## Harapan Kuliah 
+Aku harap aku dapat menjadi orang yang lebih baik, produktif, dan kenal dengan teman teman baru.
