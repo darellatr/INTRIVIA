@@ -3,7 +3,7 @@
 ## Identitas Diri 
 | Nama Lengkap | NIM | Program Studi | Cluster | 
 |--------------|-----|---------------|---------| 
-| [Darell Atharahim Donovan] | [265150300111047] | [Teknik Komputer] | [19] | 
+| Darell Atharahim Donovan | 265150300111047 | Teknik Komputer | 19 | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
 Sangat seru dan memberi insight
